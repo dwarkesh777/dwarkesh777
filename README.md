@@ -1,102 +1,95 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Dwarkesh Savaliya</h1>
 
-# Hi 👋 I'm Dwarkesh Savaliya
+<h3 align="center">
+Full Stack Developer | Python Developer | React Developer | Java Programmer
+</h3>
 
-### 🚀 Full Stack Developer • Python Developer • React Developer • Android Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+Developer;React+Developer;Android+Developer;Open+Source+Enthusiast;Always+Learning+New+Things"/>
-
-<img src="https://komarev.com/ghpvc/?username=dwarkesh777&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+Developer;React+Developer;Java+Programmer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-# 💎 About Me
+# 💫 About Me
 
-```javascript
-const dwarkesh = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    languages: ["Python","Java","JavaScript"],
-    frontend: ["React","HTML","CSS","Bootstrap","Tailwind"],
-    backend: ["Django","Flask","Node.js"],
-    database: ["MySQL","MongoDB"],
-    currentlyLearning: [
-        "Android",
-        "AI",
-        "Cloud",
-        "System Design"
-    ],
-    hobbies: [
-        "Coding",
-        "Learning",
-        "Building Projects"
-    ]
-}
-```
+💻 Passionate Full Stack Developer from India
+
+🌱 Currently learning
+- Advanced React
+- Django
+- REST APIs
+- Android Development
+
+🚀 Interested in
+- Web Development
+- Mobile App Development
+- AI Powered Applications
+- Cloud Technologies
+
+🎯 Goal
+Become a Software Engineer and build products that solve real-world problems.
 
 ---
 
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dwarkesh-savaliya-11a458246/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dwarkesh777)
-
----
-
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python,java,javascript,c,cpp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react)
+- React
+- Bootstrap
+- Tailwind CSS
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=django,flask,nodejs)
+- Django
+- Flask
+- Node.js
 
 ### Database
 
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
+- MySQL
+- MongoDB
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma)
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Postman
 
 ---
 
 # 🚀 Featured Projects
 
 ## 📱 HisabBook
+Expense Management Android Application
 
-Android Expense Management App
-
-✔ Income & Expense Tracking
-
-✔ Beautiful UI
-
-✔ Reports
-
-✔ Offline Support
+Features:
+- Income & Expense Tracking
+- Reports
+- Easy UI
+- Offline Storage
 
 ---
 
 ## 📚 PB-MCQ
 
-Quiz Website
+Online MCQ Quiz Platform
 
-✔ Chapter Wise Questions
-
-✔ Random Quiz
-
-✔ Search MCQs
-
-✔ Responsive Design
+Features:
+- Chapter Wise Questions
+- Quiz Mode
+- Score Tracking
+- Search MCQs
 
 ---
 
@@ -104,13 +97,11 @@ Quiz Website
 
 Hostel & PG Booking Platform
 
-✔ Room Booking
-
-✔ Payment Gateway
-
-✔ Search
-
-✔ Modern UI
+Features:
+- Search PG
+- Room Booking
+- Online Payments
+- Responsive UI
 
 ---
 
@@ -118,23 +109,22 @@ Hostel & PG Booking Platform
 
 Java + JDBC + MySQL
 
-✔ Authentication
-
-✔ Subscription
-
-✔ Reviews
-
-✔ Admin Dashboard
+Features:
+- Authentication
+- Movie Streaming
+- Subscription Plans
+- Reviews
+- Admin Dashboard
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dwarkesh777&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dwarkesh777&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwarkesh777&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwarkesh777&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -144,7 +134,7 @@ Java + JDBC + MySQL
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dwarkesh777&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dwarkesh777&theme=tokyonight"/>
 
 </p>
 
@@ -154,110 +144,38 @@ Java + JDBC + MySQL
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dwarkesh777&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dwarkesh777&theme=algolia&margin-w=10"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwarkesh777&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwarkesh777&theme=react-dark"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📫 Connect With Me
 
-> Enable with GitHub Actions.
+📧 Email: your-email@example.com
+
+🌐 GitHub:
+https://github.com/dwarkesh777
+
+💼 LinkedIn:
+(Add Your LinkedIn URL)
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/dwarkesh777/dwarkesh777/output/github-contribution-grid-snake.svg">
-
+<img src="https://komarev.com/ghpvc/?username=dwarkesh777&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-# 🎵 Spotify
-
-> Replace USER_ID after setup.
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-
-</p>
-
----
-
-# 💻 Coding GIF
-
-<p align="center">
-
-<img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📚 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark"/>
-
-</p>
-
----
-
-# ⚔ Codeforces
-
-<p align="center">
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME"/>
-
-</p>
-
----
-
-# 🌍 3D Contribution Calendar
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
-
-</p>
-
----
-
-# ⚙ GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dwarkesh777/dwarkesh777/main/github-metrics.svg"/>
-
-</p>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile ⭐
-
-### If you like my work, don't forget to ⭐ my repositories!
-
-</div>
