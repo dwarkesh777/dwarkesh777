@@ -35,7 +35,7 @@ Become a Software Engineer and build products that solve real-world problems.
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python,java,javascript)
+![Python](https://skillicons.dev/icons?i=python,java,javascript,kotlin,reactnative)
 
 ### Frontend
 
