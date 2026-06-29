@@ -64,71 +64,12 @@ Become a Software Engineer and build products that solve real-world problems.
 - GitHub
 - VS Code
 - Android Studio
-- Postman
 
 ---
 
-# 🚀 Featured Projects
 
-## 📱 HisabBook
-Expense Management Android Application
 
-Features:
-- Income & Expense Tracking
-- Reports
-- Easy UI
-- Offline Storage
 
----
-
-## 📚 PB-MCQ
-
-Online MCQ Quiz Platform
-
-Features:
-- Chapter Wise Questions
-- Quiz Mode
-- Score Tracking
-- Search MCQs
-
----
-
-## 🏠 StayFinder
-
-Hostel & PG Booking Platform
-
-Features:
-- Search PG
-- Room Booking
-- Online Payments
-- Responsive UI
-
----
-
-## 🎬 OTT Platform
-
-Java + JDBC + MySQL
-
-Features:
-- Authentication
-- Movie Streaming
-- Subscription Plans
-- Reviews
-- Admin Dashboard
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dwarkesh777&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwarkesh777&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -140,15 +81,7 @@ Features:
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dwarkesh777&theme=algolia&margin-w=10"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -168,7 +101,7 @@ Features:
 https://github.com/dwarkesh777
 
 💼 LinkedIn:
-(Add Your LinkedIn URL)
+https://www.linkedin.com/in/dwarkesh-savaliya-11a458246/
 
 ---
 
