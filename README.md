@@ -31,39 +31,27 @@ Become a Software Engineer and build products that solve real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Python](https://skillicons.dev/icons?i=python,java,javascript)
 
 ### Frontend
 
-- React
-- Bootstrap
-- Tailwind CSS
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react)
 
 ### Backend
 
-- Django
-- Flask
-- Node.js
+![Backend](https://skillicons.dev/icons?i=django,flask,nodejs)
 
 ### Database
 
-- MySQL
-- MongoDB
+![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Android Studio
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)
 
 ---
 
