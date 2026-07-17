@@ -59,15 +59,6 @@ Become a Software Engineer and build products that solve real-world problems.
 
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dwarkesh777&theme=tokyonight"/>
-
-</p>
-
----
 
 
 
